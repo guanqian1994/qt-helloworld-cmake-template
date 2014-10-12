@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# UIC & MOC Files
+ui_*.h
+moc_*.cpp
+
