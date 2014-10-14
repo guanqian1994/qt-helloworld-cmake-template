@@ -36,7 +36,7 @@ Then you can see a error information.
 
 Find you Qt Kit path, copy the path and to set cmake variable **QT_KIT_PATH**.
 
-(For example : F:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl)
+(For example : F:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl or /Applications/Qt5.3.2/5.3/clang_64)
 
 Click **Configure** again.
 
