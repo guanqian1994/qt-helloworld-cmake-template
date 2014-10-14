@@ -14,7 +14,7 @@ Learn & Download Qt:
 Generate Solutions
 ==============
 
-For now, supported platforms have **Windows** & **Mac OS X** (Mean you can't build on Ubuntu).
+Now, we support Windows & Mac OS X platforms (which means you cannot build it on Linux, like Ubuntu).
 
 Supported IDE (verified): Microsoft Vistual Studio 2013 / Apple XCode 6
 
@@ -49,6 +49,8 @@ If select **COPY_DEBUG_DLL** will to copy DEBUG version DLL files.
 ###STEP03
 
 Click **Generating** to generate solutions.
+
+![preview](https://raw.githubusercontent.com/frimin/qt-helloworld-cmake-template/master/img/build_in_xcode.png "preview")
 
 How to process MOC & UIC
 ==============
